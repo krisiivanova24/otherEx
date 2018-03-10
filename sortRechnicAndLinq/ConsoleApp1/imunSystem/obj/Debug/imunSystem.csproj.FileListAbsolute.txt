@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\imunSystem\bin\Debug\imunSystem.exe.config
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\imunSystem\bin\Debug\imunSystem.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\imunSystem\bin\Debug\imunSystem.pdb
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\imunSystem\obj\Debug\imunSystem.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\imunSystem\obj\Debug\imunSystem.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\imunSystem\obj\Debug\imunSystem.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\imunSystem\obj\Debug\imunSystem.pdb

@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\stings\obir\bin\Debug\obir.exe.config
+C:\Users\hristo\Desktop\programming\stings\obir\bin\Debug\obir.exe
+C:\Users\hristo\Desktop\programming\stings\obir\bin\Debug\obir.pdb
+C:\Users\hristo\Desktop\programming\stings\obir\obj\Debug\obir.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\stings\obir\obj\Debug\obir.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\stings\obir\obj\Debug\obir.exe
+C:\Users\hristo\Desktop\programming\stings\obir\obj\Debug\obir.pdb

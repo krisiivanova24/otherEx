@@ -1,0 +1,6 @@
+C:\Users\hristo\Desktop\programming\sortRechnic\ConsoleApp1\sortPhonebook\bin\Debug\sortPhonebook.exe.config
+C:\Users\hristo\Desktop\programming\sortRechnic\ConsoleApp1\sortPhonebook\bin\Debug\sortPhonebook.exe
+C:\Users\hristo\Desktop\programming\sortRechnic\ConsoleApp1\sortPhonebook\bin\Debug\sortPhonebook.pdb
+C:\Users\hristo\Desktop\programming\sortRechnic\ConsoleApp1\sortPhonebook\obj\Debug\sortPhonebook.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\sortRechnic\ConsoleApp1\sortPhonebook\obj\Debug\sortPhonebook.exe
+C:\Users\hristo\Desktop\programming\sortRechnic\ConsoleApp1\sortPhonebook\obj\Debug\sortPhonebook.pdb

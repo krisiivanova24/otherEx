@@ -1,0 +1,6 @@
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\theFirstTree\bin\Debug\theFirstTree.exe.config
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\theFirstTree\bin\Debug\theFirstTree.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\theFirstTree\bin\Debug\theFirstTree.pdb
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\theFirstTree\obj\Debug\theFirstTree.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\theFirstTree\obj\Debug\theFirstTree.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\theFirstTree\obj\Debug\theFirstTree.pdb

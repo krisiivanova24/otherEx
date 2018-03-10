@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\minior\bin\Debug\minior.exe.config
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\minior\bin\Debug\minior.exe
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\minior\bin\Debug\minior.pdb
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\minior\obj\Debug\minior.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\minior\obj\Debug\minior.exe
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\minior\obj\Debug\minior.pdb
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\minior\obj\Debug\minior.csprojResolveAssemblyReference.cache

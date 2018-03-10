@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\obrabotkaLogs\obj\Debug\obrabotkaLogs.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\obrabotkaLogs\obj\Debug\obrabotkaLogs.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\obrabotkaLogs\bin\Debug\obrabotkaLogs.exe.config
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\obrabotkaLogs\bin\Debug\obrabotkaLogs.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\obrabotkaLogs\bin\Debug\obrabotkaLogs.pdb
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\obrabotkaLogs\obj\Debug\obrabotkaLogs.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\obrabotkaLogs\obj\Debug\obrabotkaLogs.pdb

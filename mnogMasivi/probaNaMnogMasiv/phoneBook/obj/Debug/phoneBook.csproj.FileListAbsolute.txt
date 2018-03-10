@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\phoneBook\bin\Debug\phoneBook.exe.config
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\phoneBook\bin\Debug\phoneBook.exe
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\phoneBook\bin\Debug\phoneBook.pdb
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\phoneBook\obj\Debug\phoneBook.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\phoneBook\obj\Debug\phoneBook.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\phoneBook\obj\Debug\phoneBook.exe
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\phoneBook\obj\Debug\phoneBook.pdb

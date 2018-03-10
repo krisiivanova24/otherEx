@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\email\bin\Debug\email.exe.config
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\email\bin\Debug\email.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\email\bin\Debug\email.pdb
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\email\obj\Debug\email.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\email\obj\Debug\email.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\email\obj\Debug\email.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\email\obj\Debug\email.pdb

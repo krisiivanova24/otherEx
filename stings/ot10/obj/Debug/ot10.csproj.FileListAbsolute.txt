@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\stings\ot10\bin\Debug\ot10.exe.config
+C:\Users\hristo\Desktop\programming\stings\ot10\bin\Debug\ot10.exe
+C:\Users\hristo\Desktop\programming\stings\ot10\bin\Debug\ot10.pdb
+C:\Users\hristo\Desktop\programming\stings\ot10\obj\Debug\ot10.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\stings\ot10\obj\Debug\ot10.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\stings\ot10\obj\Debug\ot10.exe
+C:\Users\hristo\Desktop\programming\stings\ot10\obj\Debug\ot10.pdb

@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\population\bin\Debug\population.exe.config
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\population\bin\Debug\population.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\population\bin\Debug\population.pdb
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\population\obj\Debug\population.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\population\obj\Debug\population.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\population\obj\Debug\population.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\population\obj\Debug\population.pdb

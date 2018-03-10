@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\proba\bin\Debug\proba.exe.config
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\proba\bin\Debug\proba.exe
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\proba\bin\Debug\proba.pdb
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\proba\obj\Debug\proba.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\proba\obj\Debug\proba.exe
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\proba\obj\Debug\proba.pdb

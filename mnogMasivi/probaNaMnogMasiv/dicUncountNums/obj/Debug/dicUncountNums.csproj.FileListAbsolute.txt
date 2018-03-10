@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\dicUncountNums\bin\Debug\dicUncountNums.exe.config
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\dicUncountNums\bin\Debug\dicUncountNums.exe
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\dicUncountNums\bin\Debug\dicUncountNums.pdb
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\dicUncountNums\obj\Debug\dicUncountNums.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\dicUncountNums\obj\Debug\dicUncountNums.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\dicUncountNums\obj\Debug\dicUncountNums.exe
+C:\Users\hristo\Desktop\programming\mnogMasivi\probaNaMnogMasiv\dicUncountNums\obj\Debug\dicUncountNums.pdb

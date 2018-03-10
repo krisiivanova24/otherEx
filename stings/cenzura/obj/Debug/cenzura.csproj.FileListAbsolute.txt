@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\stings\cenzura\bin\Debug\cenzura.exe.config
+C:\Users\hristo\Desktop\programming\stings\cenzura\bin\Debug\cenzura.exe
+C:\Users\hristo\Desktop\programming\stings\cenzura\bin\Debug\cenzura.pdb
+C:\Users\hristo\Desktop\programming\stings\cenzura\obj\Debug\cenzura.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\stings\cenzura\obj\Debug\cenzura.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\stings\cenzura\obj\Debug\cenzura.exe
+C:\Users\hristo\Desktop\programming\stings\cenzura\obj\Debug\cenzura.pdb

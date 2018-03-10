@@ -1,0 +1,6 @@
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\nechetenFiltyr\bin\Debug\nechetenFiltyr.exe.config
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\nechetenFiltyr\bin\Debug\nechetenFiltyr.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\nechetenFiltyr\bin\Debug\nechetenFiltyr.pdb
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\nechetenFiltyr\obj\Debug\nechetenFiltyr.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\nechetenFiltyr\obj\Debug\nechetenFiltyr.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\nechetenFiltyr\obj\Debug\nechetenFiltyr.pdb

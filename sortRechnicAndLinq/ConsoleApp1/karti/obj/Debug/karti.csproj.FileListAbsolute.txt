@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\karti\bin\Debug\karti.exe.config
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\karti\bin\Debug\karti.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\karti\bin\Debug\karti.pdb
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\karti\obj\Debug\karti.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\karti\obj\Debug\karti.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\karti\obj\Debug\karti.pdb
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\karti\obj\Debug\karti.csprojResolveAssemblyReference.cache

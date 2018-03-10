@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortTime\bin\Debug\sortTime.exe.config
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortTime\bin\Debug\sortTime.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortTime\bin\Debug\sortTime.pdb
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortTime\obj\Debug\sortTime.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortTime\obj\Debug\sortTime.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortTime\obj\Debug\sortTime.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortTime\obj\Debug\sortTime.pdb

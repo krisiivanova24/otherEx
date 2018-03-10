@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\stings\v10\bin\Debug\v10.exe.config
+C:\Users\hristo\Desktop\programming\stings\v10\bin\Debug\v10.exe
+C:\Users\hristo\Desktop\programming\stings\v10\bin\Debug\v10.pdb
+C:\Users\hristo\Desktop\programming\stings\v10\obj\Debug\v10.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\stings\v10\obj\Debug\v10.exe
+C:\Users\hristo\Desktop\programming\stings\v10\obj\Debug\v10.pdb
+C:\Users\hristo\Desktop\programming\stings\v10\obj\Debug\v10.csprojResolveAssemblyReference.cache

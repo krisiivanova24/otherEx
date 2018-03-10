@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortBriefWords\bin\Debug\sortBriefWords.exe.config
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortBriefWords\bin\Debug\sortBriefWords.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortBriefWords\bin\Debug\sortBriefWords.pdb
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortBriefWords\obj\Debug\sortBriefWords.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortBriefWords\obj\Debug\sortBriefWords.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortBriefWords\obj\Debug\sortBriefWords.exe
+C:\Users\hristo\Desktop\programming\sortRechnicAndLinq\ConsoleApp1\sortBriefWords\obj\Debug\sortBriefWords.pdb
